@@ -1,5 +1,3 @@
-#include <windows.h>
-
 //STACK USING ARRAY
 
 #include <stdio.h>
